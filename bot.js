@@ -33,10 +33,10 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['923039016092',''] //owner number +27634090203
-global.wame = ['923039016092'] 
-global.pemilik = ['923039016092'] //owner number +27634090203
-global.premium = ['923039016092'] //premium number +27634090203
+global.owner = ['923054777033',''] //owner number +27634090203
+global.wame = ['923054777033'] 
+global.pemilik = ['923054777033'] //owner number +27634090203
+global.premium = ['923054777033'] //premium number +27634090203
 global.pengguna = 'Abdullah' //username
 global.footer = 'Abd BOT INC'
 global.botnma = 'Abd BOT INC' //bot name
